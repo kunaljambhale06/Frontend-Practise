@@ -1,6 +1,5 @@
 /*@import url(Here we have to imort martal sans font by using import function) temporarly used anothher font  */
-/* on line 61 and below we used '>' symbol so this style selects immediate(1st) child */
-/* 55 mins*/
+
 
 * {
     margin: 0;
@@ -63,7 +62,7 @@ nav button {
     gap: 14px;
     padding: 0 29px;
 }
-
+/* on line 61 and below we used '>' symbol so this style selects immediate(1st) child */
 .hero> :first-child {
     font-size: 28px;
     font-family: "poppins";
